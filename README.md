@@ -7,3 +7,4 @@ Check out my detailed software testing project [here](https://docs.google.com/sp
 As well as my Project management tool "Trello" [here](https://trello.com/invite/b/65c531af12ffacb3ea0da0ec/ATTI560d0db448873219ecd5ab4ec8f92502C98000A9/yummy-app-testing)
 ### Game Testing Screenshots(My main Course and focus)
 Screenshots from Game tester course work i've done: [Google Drive folder](https://drive.google.com/drive/folders/1IDzPAKWqzKstibwGGTqbNedDGrjMDYbi?usp=sharing)
+Also Check out my Certificates from all courses i've been attending to [here](https://drive.google.com/drive/folders/1exiNnKEb8BVoZFhsCngM7p1q6vsdJ9al?usp=sharing)
