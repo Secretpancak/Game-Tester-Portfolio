@@ -75,4 +75,7 @@ The unit’s UI positioned behind the ability button overlays the ability button
 ### Expected results:
 
 The unit’s UI shouldn’t be overlaying the ability button and instead should let the player see the abilties’s description and only show up whenever the player hovers over it outside of the main unit’s UI.
+
 ### Attachments:
+### Bug Report Video
+🎥 Bug reproduction video: [Watch here](https://youtu.be/PtV67nhMRUE?feature=shared).
