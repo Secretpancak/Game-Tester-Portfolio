@@ -43,7 +43,7 @@ After the main target alerts the guards the guard on the right side fights the N
 The guard should agro and attack the main character not the NPC on the couch.
 ### Attachments: 
 ### Bug Reproduction Video
-[Watch Video]()
+[Watch Video](Nagrywanie ekranu 2025-10-09 201724.mp4)
 ## 2nd Bug Report example:
 
 ### Title: PC][UI][Overlay] UI overlay with all ability buttons in-game and unit summuries
