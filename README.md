@@ -1,5 +1,6 @@
 # Game-Tester-Portfolio
-#About me
+
+About me:
 My name is Maciej Potrzebowski/Matt
 and game testing is my passion i've been attending to a ton of courses and i wanted to show everything that my passion was able to start me with to show of my skills.
 My whole entire history of practical skills and projects i've done over the course of couple months during my courses
