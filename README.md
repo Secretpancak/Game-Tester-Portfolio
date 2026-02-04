@@ -16,10 +16,11 @@ As well as my Project management tool "Trello" [here](https://trello.com/invite/
 Screenshots from The Game tester course work i've done: [Google Drive folder](https://drive.google.com/drive/folders/1IDzPAKWqzKstibwGGTqbNedDGrjMDYbi?usp=sharing)
 Also Check out my Certificates from all courses i've been attending to [here](https://drive.google.com/drive/folders/1exiNnKEb8BVoZFhsCngM7p1q6vsdJ9al?usp=sharing)
 
-# Bug Report examples that i've done myself
-# Title:PC][FUN][NPC] The npc attacks the women npc instead of the player
+## Bug Report examples that i've done myself:
 
-# Steps to reproduce:
+### Title:PC][FUN][NPC] The npc attacks the women npc instead of the player
+
+### Steps to reproduce:
 
 1.Open the game
 
@@ -33,19 +34,20 @@ Also Check out my Certificates from all courses i've been attending to [here](ht
 
 6.Observe the guard on the right fighting the NPC not the main character
 
-# Observed results:
+### Observed results:
 
 After the main target alerts the guards the guard on the right side fights the NPC on the couch instead of the main character.
 
-# Expected results:
+### Expected results:
 
 The guard should agro and attack the main character not the NPC on the couch.
-# Attachments: 
+### Attachments: 
 
-# 2nd Bug Report example
-# Title: PC][UI][Overlay] UI overlay with all ability buttons in-game and unit summuries
+## 2nd Bug Report example:
 
-# Steps to reproduce:
+### Title: PC][UI][Overlay] UI overlay with all ability buttons in-game and unit summuries
+
+### Steps to reproduce:
 
 1.Open the game
 
@@ -65,11 +67,11 @@ The guard should agro and attack the main character not the NPC on the couch.
 
 9.Observe the unit UI overlay the ability button
 
-# Actual results:
+### Actual results:
 
 The unit’s UI positioned behind the ability button overlays the ability button whenever the player hovers over it and he needs to hover his mouse from a diffrent way to actually see the ability’s description.
 
-# Expected results:
+### Expected results:
 
 The unit’s UI shouldn’t be overlaying the ability button and instead should let the player see the abilties’s description and only show up whenever the player hovers over it outside of the main unit’s UI.
-# Attachments:
+### Attachments:
