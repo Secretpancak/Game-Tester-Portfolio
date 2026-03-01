@@ -40,7 +40,7 @@ After the main target alerts the guards the guard on the right side fights the N
 
 ### Expected results:
 
-The guard should agro and attack the main character not the NPC on the couch.
+The guard gets agro and attacks the main character instead of the NPC on the couch.
 ### Attachments: 
 ### Bug Report Video
 🎥 Bug reproduction video: [Watch here](https://drive.google.com/file/d/1UJ8yhF0AkDaTkn2PnOcLLzmAi4aavUO5/view?usp=drivesdk)
@@ -73,8 +73,7 @@ The guard should agro and attack the main character not the NPC on the couch.
 The unit’s UI positioned behind the ability button overlays the ability button whenever the player hovers over it and he needs to hover his mouse from a diffrent way to actually see the ability’s description.
 
 ### Expected results:
-
-The unit’s UI shouldn’t be overlaying the ability button and instead should let the player see the abilties’s description and only show up whenever the player hovers over it outside of the main unit’s UI.
+The unit's ability Menu UI shows up whenever the player hovers his mouse over the ability button giving him the description of what the ability does.
 
 ### Attachments:
 ### Bug Report Video
