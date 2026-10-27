@@ -12,7 +12,7 @@ A comprehensive look at my hands-on testing projects, coursework, and practical 
 To showcase my automation in a real-world scenario, I built a custom web application (Brainstorm) as a passion project with base44 and authored automated test suites to validate its core workflows.  
 
 ​Check out my Google Drive Video Demos
-to watch screen recordings of Playwright executing live tests against the app—covering automated login flows, dynamic note and flashcard deck generation, points store redeeming, and admin feature logic right here: https://drive.google.com/drive/folders/17oesJeeIU6eVKf4gBu8j89wMihuT7Qtz
+to watch screen recordings of Playwright executing live tests against the app—covering automated login flows, dynamic note and flashcard deck generation, points store redeeming, and admin feature logic right here: [here] (https://drive.google.com/drive/folders/17oesJeeIU6eVKf4gBu8j89wMihuT7Qtz).
 
 ## Projects:
 
