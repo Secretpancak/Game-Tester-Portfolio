@@ -5,14 +5,18 @@ Hi, I'm Maciej (Matt) Potrzebowski. Game testing and quality assurance are my pa
 
 # Description before you go in:
 A comprehensive look at my hands-on testing projects, coursework, and practical documentation.
+### Passion Projects / Web Development:
+# My Web Development Passion Project (Brainstorm)-
+​Before diving into the automation scripts, I wanted a fully functional, feature-rich web product to test. I designed and built Brain Storm Study—a modern study and productivity web app featuring dynamic note management, flashcard generation, gamified point tracking, an points store where you can spend your hard-earned points after long studies.
+
 ### Playwright Test Automation Suite:
-## Playwright Test Automation Video Demos:
+# Playwright Test Automation Video Demos:
 To showcase my automation in a real-world scenario, I built a custom web application (Brainstorm) as a passion project with base44 and authored automated test suites to validate its core workflows.  
 
 ​Check out my Google Drive Video Demos
 to watch screen recordings of Playwright executing live tests against the app—covering automated login flows, dynamic note and flashcard deck generation, points store redeeming, and admin feature logic right here: https://drive.google.com/drive/folders/17oesJeeIU6eVKf4gBu8j89wMihuT7Qtz
 
-## Projects
+## Projects:
 
 ### Software Testing Project(My previous Course)
 Check out my detailed software testing project [here](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit?usp=sharing).
@@ -21,6 +25,7 @@ As well as my Project management tool "Trello" [here](https://trello.com/invite/
 Screenshots from The Game tester course work i've done: [Google Drive folder](https://drive.google.com/drive/folders/1IDzPAKWqzKstibwGGTqbNedDGrjMDYbi?usp=sharing)
 Also Check out my Certificates from all courses i've been attending to [here](https://drive.google.com/drive/folders/1exiNnKEb8BVoZFhsCngM7p1q6vsdJ9al?usp=sharing)
 
+### Passion Projects / Web De
 ## Bug Report examples that i've done myself:
 
 ### Title:PC][FUN][NPC] The npc attacks the women npc instead of the player
