@@ -6,11 +6,9 @@ Hi, I'm Maciej (Matt) Potrzebowski. Game testing and quality assurance are my pa
 # Description before you go in:
 A comprehensive look at my hands-on testing projects, coursework, and practical documentation.
 ### Passion Projects / Web Development:
-# My Web Development Passion Project (Brainstorm)-
 ​Before diving into the automation scripts, I wanted a fully functional, feature-rich web product to test. I designed and built Brain Storm Study—a modern study and productivity web app featuring dynamic note management, flashcard generation, gamified point tracking, an points store where you can spend your hard-earned points after long studies.
 
 ### Playwright Test Automation Suite:
-# Playwright Test Automation Video Demos:
 To showcase my automation in a real-world scenario, I built a custom web application (Brainstorm) as a passion project with base44 and authored automated test suites to validate its core workflows.  
 
 ​Check out my Google Drive Video Demos
