@@ -1,11 +1,16 @@
 # Game-Tester-Portfolio
 
 # About me:
-My name is Maciej Potrzebowski/Matt
-and game testing is my passion i've been attending to a ton of courses and i wanted to show everything that my passion was able to start me with to show of my skills.
+Hi, I'm Maciej (Matt) Potrzebowski. Game testing and quality assurance are my passions. This repository highlights the practical skills, structured bug reports, and projects I've built through professional QA courses.
 
 # Description before you go in:
-My whole entire history of practical skills and projects i've done over the course of couple months during my courses
+A comprehensive look at my hands-on testing projects, coursework, and practical documentation.
+### Playwright Test Automation Suite:
+## Playwright Test Automation Video Demos:
+To showcase my automation in a real-world scenario, I built a custom web application (Brainstorm) as a passion project with base44 and authored automated test suites to validate its core workflows.  
+
+​Check out my Google Drive Video Demos
+to watch screen recordings of Playwright executing live tests against the app—covering automated login flows, dynamic note and flashcard deck generation, points store redeeming, and admin feature logic right here: https://drive.google.com/drive/folders/17oesJeeIU6eVKf4gBu8j89wMihuT7Qtz
 
 ## Projects
 
